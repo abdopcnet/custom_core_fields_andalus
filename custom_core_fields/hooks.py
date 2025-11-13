@@ -251,10 +251,3 @@ doc_events = {
 # default_log_clearing_doctypes = {
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
-
-fixtures = [
-    {"doctype": "Custom Field", "filters": [["module", "=", "Custom Core Fields"]]},
-    {"doctype": "Property Setter", "filters": [["module", "=", "Custom Core Fields"]]},
-    {"doctype": "Custom Field", "filters": [["module", "=", "Custom Core Fields"]]},
-    {"doctype": "Property Setter", "filters": [["module", "=", "Custom Core Fields"]]},
-]
