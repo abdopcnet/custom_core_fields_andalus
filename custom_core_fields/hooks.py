@@ -146,12 +146,7 @@ app_license = "mit"
 # }
 
 
-doc_events = {
-    "Customer": {
-        "after_insert": "custom_core_fields.contact_address_quick_entry.customer_address_link",
-        "on_update": "custom_core_fields.contact_address_quick_entry.customer_address_link",
-    }
-}
+
 
 
 
