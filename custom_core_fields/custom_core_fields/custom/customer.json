@@ -81,7 +81,7 @@
       "field_name": "internal_customer_section",
       "idx": 0,
       "is_system_generated": 0,
-      "modified": "2025-08-07 06:12:39.753814",
+      "modified": "2025-12-07 23:13:19.690090",
       "modified_by": "Administrator",
       "module": "Custom Core Fields",
       "name": "Customer-internal_customer_section-hidden",
